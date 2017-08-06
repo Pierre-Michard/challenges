@@ -32,7 +32,7 @@ module Drivy
     #    - the amount the actor owes (or is owed) after the modification
     #    - the amount the actor has already paid (or been given) before the modification
     def actions
-      modified_rental.actions.merge(rental.actions) { |_, l, r| l-r }
+      modified_rental.actions - rental.actions
     end
 
     def serialize
