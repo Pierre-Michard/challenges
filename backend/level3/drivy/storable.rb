@@ -1,7 +1,7 @@
 module Drivy
   module Storable
 
-    attr_accessor :all
+    attr_reader :all
 
     def init(items)
       @all = items.map{|item| new(item)}
