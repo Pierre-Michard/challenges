@@ -1,4 +1,3 @@
-# Drivy Challenges
+# Challenge responses
 
-- [backend](https://github.com/drivy/jobs/tree/master/backend)
-- [data & ops](https://github.com/drivy/jobs/tree/master/data-ops)
+- [backend](https://github.com/Pierre-Michard/challenges/tree/master/backend)
