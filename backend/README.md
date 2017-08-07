@@ -1,6 +1,4 @@
-# Drivy Backend Challenge
-
- Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
+# Backend Challenge
 
 ## Guidelines
 
